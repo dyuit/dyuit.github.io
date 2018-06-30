@@ -38,14 +38,14 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/categories/</loc>
     <lastmod>2018-06-27T19:28:39+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/tags/</loc>
     <lastmod>2018-06-27T19:28:39+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>

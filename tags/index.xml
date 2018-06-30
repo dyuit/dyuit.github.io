@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 杭州点宇科技信息有限公司</title>
-    <link>http://www.dyuit.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on 杭州点宇科技信息有限公司</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 27 Jun 2018 19:28:39 +0800</lastBuildDate>
     
-	<atom:link href="http://www.dyuit.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://www.dyuit.com/tags/</link>
+      <link>/tags/</link>
       <pubDate>Wed, 27 Jun 2018 19:28:39 +0800</pubDate>
       
-      <guid>http://www.dyuit.com/tags/</guid>
+      <guid>/tags/</guid>
       <description></description>
     </item>
     

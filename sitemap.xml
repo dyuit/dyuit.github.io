@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.dyuit.com/about/</loc>
+    <lastmod>2018-06-28T11:52:24+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dyuit.com/news/%E5%A4%84%E7%90%86%E6%96%B9%E5%BC%8F/</loc>
+    <lastmod>2018-06-27T19:28:39+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dyuit.com/news/</loc>
+    <lastmod>2018-06-27T18:23:50+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dyuit.com/server/</loc>
+    <lastmod>2018-06-27T15:38:07+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dyuit.com/links/</loc>
+    <lastmod>2018-06-27T15:37:38+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dyuit.com/tags/</loc>
+    <lastmod>2018-06-27T19:28:39+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dyuit.com/categories/</loc>
+    <lastmod>2018-06-27T19:28:39+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dyuit.com/categories/</loc>
+    <lastmod>2018-06-27T19:28:39+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dyuit.com/tags/</loc>
+    <lastmod>2018-06-27T19:28:39+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dyuit.com/</loc>
+    <lastmod>2018-06-28T11:52:24+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

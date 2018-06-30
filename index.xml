@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杭州点宇科技信息有限公司</title>
+    <link>http://www.dyuit.com/</link>
+    <description>Recent content on 杭州点宇科技信息有限公司</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 28 Jun 2018 11:52:24 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.dyuit.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://www.dyuit.com/about/</link>
+      <pubDate>Thu, 28 Jun 2018 11:52:24 +0800</pubDate>
+      
+      <guid>http://www.dyuit.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>处理方式</title>
+      <link>http://www.dyuit.com/news/%E5%A4%84%E7%90%86%E6%96%B9%E5%BC%8F/</link>
+      <pubDate>Wed, 27 Jun 2018 19:28:39 +0800</pubDate>
+      
+      <guid>http://www.dyuit.com/news/%E5%A4%84%E7%90%86%E6%96%B9%E5%BC%8F/</guid>
+      <description>处理方式</description>
+    </item>
+    
+    <item>
+      <title>友情链接</title>
+      <link>http://www.dyuit.com/links/</link>
+      <pubDate>Wed, 27 Jun 2018 15:37:38 +0800</pubDate>
+      
+      <guid>http://www.dyuit.com/links/</guid>
+      <description>links</description>
+    </item>
+    
+  </channel>
+</rss>

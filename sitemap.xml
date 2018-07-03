@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/doc/git-intro/</loc>
+    <lastmod>2018-07-03T14:01:24+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2018-06-28T11:52:24+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -38,13 +45,6 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2018-06-27T19:28:39+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2018-06-27T19:28:39+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -54,6 +54,34 @@
   <url>
     <loc>/categories/</loc>
     <lastmod>2018-06-27T19:28:39+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2018-06-27T19:28:39+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/doc/</loc>
+    <lastmod>2018-07-03T14:01:24+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/doc/</loc>
+    <lastmod>2018-07-03T14:01:24+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/git/</loc>
+    <lastmod>2018-07-03T14:01:24+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -67,7 +95,14 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-06-28T11:52:24+08:00</lastmod>
+    <lastmod>2018-07-03T14:01:24+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/%E7%82%B9%E5%AE%87%E6%96%87%E6%A1%A3/</loc>
+    <lastmod>2018-07-03T14:01:24+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

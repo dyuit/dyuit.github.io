@@ -20,5 +20,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Doc</title>
+      <link>/tags/doc/</link>
+      <pubDate>Tue, 03 Jul 2018 14:01:24 +0800</pubDate>
+      
+      <guid>/tags/doc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>/tags/git/</link>
+      <pubDate>Tue, 03 Jul 2018 14:01:24 +0800</pubDate>
+      
+      <guid>/tags/git/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

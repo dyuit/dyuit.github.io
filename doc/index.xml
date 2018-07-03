@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>杭州点宇信息科技有限公司</title>
-    <link>/</link>
-    <description>Recent content on 杭州点宇信息科技有限公司</description>
+    <title>Docs on 杭州点宇信息科技有限公司</title>
+    <link>/doc/</link>
+    <description>Recent content in Docs on 杭州点宇信息科技有限公司</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 03 Jul 2018 14:01:24 +0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/doc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -24,33 +24,6 @@ Git 是用于 Linux 内核开发的版本控制工具。与常用的版本控制
 杭州点宇信息科技  实际上内核开发团队决定开始开发和使用 Git 来作为内核开发的版本控制系统的时候， 世界开源社群的反对声音不少，最大的理由是 Git 太艰涩难懂，从 Git 的内部工作机制来说，的确是这样。 但是随着开发的深入，Git 的正常使用都由一些友好的脚本命令来执行，使 Git 变得非常好用， 即使是用来管理我们自己的开发项目，Git 都是一个友好，有力的工具。 现在，越来越多的著名项目采用 Git 来管理项目开发，例如：wine, U-boot 等，详情看http://www.kernel.org/git
 杭州点宇信息科技  作为开源自由原教旨主义项目，Git 没有对版本库的浏览和修改做任何的权限限制。 它只适用于 Linux / Unix 平台，没有 Windows 版本，目前也没有这样的开发计划。
 本文将以 Git 官方文档 Tutorial， core-tutorial 和 Everyday GIT 作为蓝本翻译整理，但是暂时去掉了对 Git 内部工作机制的阐述， 力求简明扼要，并加入了作者使用 Git 的过程中的一些心得体会，注意事项，以及更多的例子。 建议你最好通过你所使用的 Unix / Linux 发行版的安装包来安装 Git, 你可以在线浏览本文 ，也可以通过下面的命令来得到本文最新的版本库，并且通过后面的学习用 Git 作为工具参加到本文的创作中来。 &amp;gt;$ git-clone http://www.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 28 Jun 2018 11:52:24 +0800</pubDate>
-      
-      <guid>/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>处理方式</title>
-      <link>/news/%E5%A4%84%E7%90%86%E6%96%B9%E5%BC%8F/</link>
-      <pubDate>Wed, 27 Jun 2018 19:28:39 +0800</pubDate>
-      
-      <guid>/news/%E5%A4%84%E7%90%86%E6%96%B9%E5%BC%8F/</guid>
-      <description>处理方式</description>
-    </item>
-    
-    <item>
-      <title>友情链接</title>
-      <link>/links/</link>
-      <pubDate>Wed, 27 Jun 2018 15:37:38 +0800</pubDate>
-      
-      <guid>/links/</guid>
-      <description>links</description>
     </item>
     
   </channel>

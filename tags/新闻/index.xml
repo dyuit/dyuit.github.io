@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>新闻 on 杭州点宇信息科技有限公司</title>
+    <link>/tags/%E6%96%B0%E9%97%BB/</link>
+    <description>Recent content in 新闻 on 杭州点宇信息科技有限公司</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 27 Jun 2018 19:28:39 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/%E6%96%B0%E9%97%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>杭州点宇信息科技有限公司成立</title>
+      <link>/news/dyu-setup/</link>
+      <pubDate>Wed, 27 Jun 2018 19:28:39 +0800</pubDate>
+      
+      <guid>/news/dyu-setup/</guid>
+      <description>杭州点宇信息科技有限公司成立于2018年7月1日。</description>
+    </item>
+    
+    <item>
+      <title>公司新闻</title>
+      <link>/news/</link>
+      <pubDate>Wed, 27 Jun 2018 18:23:50 +0800</pubDate>
+      
+      <guid>/news/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

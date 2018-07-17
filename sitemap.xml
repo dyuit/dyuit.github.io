@@ -17,7 +17,7 @@
   </url>
   
   <url>
-    <loc>/news/%E5%A4%84%E7%90%86%E6%96%B9%E5%BC%8F/</loc>
+    <loc>/news/dyu-setup/</loc>
     <lastmod>2018-06-27T19:28:39+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -31,7 +31,14 @@
   </url>
   
   <url>
-    <loc>/server/</loc>
+    <loc>/doc/</loc>
+    <lastmod>2018-06-27T18:23:50+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/service/</loc>
     <lastmod>2018-06-27T15:38:07+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -45,35 +52,13 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-06-27T19:28:39+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <lastmod>2018-06-27T19:28:39+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2018-06-27T19:28:39+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/doc/</loc>
-    <lastmod>2018-07-03T14:01:24+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/doc/</loc>
     <lastmod>2018-07-03T14:01:24+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
@@ -88,7 +73,63 @@
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2018-07-03T14:01:24+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</loc>
+    <lastmod>2018-06-28T11:52:24+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</loc>
+    <lastmod>2018-06-28T11:52:24+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
+    <lastmod>2018-06-27T15:37:38+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81/</loc>
+    <lastmod>2018-06-27T18:23:50+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81/</loc>
+    <lastmod>2018-06-27T18:23:50+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E6%96%B0%E9%97%BB/</loc>
     <lastmod>2018-06-27T19:28:39+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2018-06-27T19:28:39+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E6%9D%AD%E5%B7%9E%E7%82%B9%E5%AE%87%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80/</loc>
+    <lastmod>2018-06-28T11:52:24+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -101,8 +142,43 @@
   </url>
   
   <url>
+    <loc>/tags/%E6%9D%AD%E5%B7%9E%E7%82%B9%E5%AE%87%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/</loc>
+    <lastmod>2018-06-28T11:52:24+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E7%82%B9%E5%AE%87%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80/</loc>
+    <lastmod>2018-06-28T11:52:24+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/%E7%82%B9%E5%AE%87%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80/</loc>
+    <lastmod>2018-06-27T15:37:38+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/%E7%82%B9%E5%AE%87%E6%96%87%E6%A1%A3/</loc>
     <lastmod>2018-07-03T14:01:24+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E8%A1%8C%E4%B8%9A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</loc>
+    <lastmod>2018-06-27T15:38:07+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/%E8%A1%8C%E4%B8%9A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</loc>
+    <lastmod>2018-06-27T15:38:07+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

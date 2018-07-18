@@ -6,10 +6,28 @@
     <description>Recent content in 点宇文档 on 杭州点宇信息科技有限公司</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 03 Jul 2018 14:01:24 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jul 2018 18:01:25 +0800</lastBuildDate>
     
 	<atom:link href="/categories/%E7%82%B9%E5%AE%87%E6%96%87%E6%A1%A3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>mysql master slave 主从同步</title>
+      <link>/doc/mysql-sync/</link>
+      <pubDate>Wed, 18 Jul 2018 18:01:25 +0800</pubDate>
+      
+      <guid>/doc/mysql-sync/</guid>
+      <description>==============================
+ 模式1 使用mysql命令来设定slave 模式2 使用配置文件来设定slave password 重置 局域网访问 权限 实例 多台循环蛇型同步  杭州点宇信息科技有限公司  &amp;gt;下面cli中 $ 为普通权限，# 为root权限。
+模式1 使用mysql命令来设定slave Master：SerA IP:10.0.2.81
+Slave：SerB IP:10.0.2.82
+A: my.cnf
+server-id=1 #master log-bin=mysql-bin binlog-do-db=dbname # 需要备份的数据库名, 多个则重复设置  A: mysql cmd
+杭州点宇信息科技有限公司 
+mysql&amp;gt; GRANT all privileges ON *.* TO &#39;backup&#39;@&#39;10.0.2.82&#39; IDENTIFIED BY &#39;123456&#39; mysql&amp;gt; flush privileges;  导出 dbname 数据库
+$ mysqldump -uroot -p dbname &amp;gt; dbname.sql  重启mysql服务器
+# service mysql restart  A: mysql cmd</description>
+    </item>
     
     <item>
       <title>Git 简介</title>
